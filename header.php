@@ -18,7 +18,6 @@
         <a class="nav-link active" aria-current="page" href="index.php">Home</a>
         <a class="nav-link" href="get.php">Get</a>
         <a class="nav-link" href="post.php">Post</a>
-        <a class="nav-link disabled">Disabled</a>
       </div>
     </div>
   </div>
