@@ -5,3 +5,4 @@
         Age: <input type="integer" name="age"><br>
         <input type="submit">
     </form>
+<?php require_once("footer.php"); ?>
